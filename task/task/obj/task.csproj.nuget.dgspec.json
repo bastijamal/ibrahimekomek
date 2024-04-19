@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\CA.R215.18\\Desktop\\task\\task\\task.csproj": {}
+    "C:\\Users\\CA.R215.18\\Desktop\\github\\task\\task\\task.csproj": {}
   },
   "projects": {
-    "C:\\Users\\CA.R215.18\\Desktop\\task\\task\\task.csproj": {
+    "C:\\Users\\CA.R215.18\\Desktop\\github\\task\\task\\task.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\CA.R215.18\\Desktop\\task\\task\\task.csproj",
+        "projectUniqueName": "C:\\Users\\CA.R215.18\\Desktop\\github\\task\\task\\task.csproj",
         "projectName": "task",
-        "projectPath": "C:\\Users\\CA.R215.18\\Desktop\\task\\task\\task.csproj",
+        "projectPath": "C:\\Users\\CA.R215.18\\Desktop\\github\\task\\task\\task.csproj",
         "packagesPath": "C:\\Users\\CA.R215.18\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\CA.R215.18\\Desktop\\task\\task\\obj\\",
+        "outputPath": "C:\\Users\\CA.R215.18\\Desktop\\github\\task\\task\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\CA.R215.18\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -14,8 +14,6 @@ namespace ConsoleApp1
 	internal class Room
 	{
 
-		//- Id - qıraqdan set etmək olmayacaq yalnız get etmək olacaq və hər dəfə yeni bir Employeee obyekt yaradıldıqda avtomatik bir vahid artacaq.
-
 		private static int _id;
 		public int Id { get; set; }
 
@@ -24,7 +22,7 @@ namespace ConsoleApp1
 		public int Price { get; set; }
 		public int PersonCapacity { get; set; }
 
-		bool IsAvialable=true;
+		public bool IsAvialable=true;
 
 		public Room(string name,int price, int perscap)
 		{
